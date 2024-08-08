@@ -1,1 +1,46 @@
 /* Write your CSS here! */
+body {
+    background-color: gray;
+    margin: 8px;
+    display: block;
+}
+
+h1 {
+    color:red;
+    text-align: center;
+}
+#mainHeading {
+    color: red;
+}
+
+p {
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+p.funParagraph {
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: green;
+}
+
+.description {
+    background: rgb(129, 129, 213);
+}
+
+.d234 {
+    background: red;
+}
+.paragraphOne {
+    border: 1px solid black;
+    margin: 25px;
+    background-color: blueviolet;
+}
+.imageintro {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    text-align: center;
+}
+.center {
+    width: 50%;
+}
