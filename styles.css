@@ -24,6 +24,10 @@ body {
     margin: 20px 0;
     font-family: 'Comic Sans MS', sans-serif;
   }
+
+  #mainHeading {
+    color: red;
+  }
   
   /* image */
   .imageintro img {
